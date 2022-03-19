@@ -1,0 +1,5 @@
+mongoengine
+python-telegram-bot
+requests
+coinbase
+dnspython
